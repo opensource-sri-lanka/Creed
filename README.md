@@ -10,22 +10,3 @@ Basic music player using GOLANG
 
     http://{your_ip_address}:8080
 
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
